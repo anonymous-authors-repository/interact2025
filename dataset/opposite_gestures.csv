@@ -1,134 +1,134 @@
 gesture1,gesture2
-raised hand,lowered hand
-hand grab,hand release
-palm up,palm down
-hand release,hand grab
-index up,index down
-palm down,palm up
-hand wave,hand still
-hand swipe,reverse hand swipe
-hand pinch,unpinch
-point camera,away from camera
-backhand up,backhand down
-silence cue,speak cue
-clap hands,unclip hands
-spread hands,close hands
-block face,unblock face
-circular hand wave,counterclockwise circular hand wave
-open curtains,close curtains
-thumbs up,thumbs down
-cross fingers,uncross fingers
-uncover mouth,cover mouth
-block view,unblock view
-unpinch,hand pinch
-swipe up,swipe down
-close curtains,open curtains
-timeout,resume
-cover mouth,uncover mouth
-cross hands/arms,uncross hands/arms
-hand release + hand grab,hand grab + hand release
-clockwise,counterclockwise
-fist raise,fist lower
-palm up-down,palm down-up
-palm slap,reverse palm slap
-pinch hold,unpinch
-hand cut,reverse hand cut
-swipe down,swipe up
-listen + palm up,listen + palm down
-zip mouth,unzip
-palm rotate,reverse palm rotate
-phone down,phone up
-snap finger,unsnap finger
-sound wave,silence wave
-listen,ignore
-raised hand + palm down,lowered hand + palm up
-close lid,open lid
-listen + palm down,listen + palm up
-point camera + clockwise,point camera + counterclockwise
-namaste + open curtains,namaste + close curtains
-ok sign,not ok sign
-index point camera,index away from camera
-throat slash,continue speaking
-timeout tap,resume tap
-unblock view,block view
-index rotate + point camera,index counter-rotate + point camera
-"v" sign,inverted "v" sign
-cover eyes,uncover eyes
-index down,index up
-frame,unframe
-finger click,finger still
-raised hand + hand circle,lowered hand + hand circle
-close curtains + clap hands,open curtains + clap hands
-salute swipe,reverse salute swipe
-raised hand + palm up,lowered hand + palm down
-cover ear,uncover ear
-raised hand + hand swipe,lowered hand + hand swipe
-raised hand + hand grab,lowered hand + hand release
-index point,index retract
-point camera + listen + uncover mouth,point camera + listen + cover mouth
-point mouth + cross fingers,point mouth + uncross fingers
-point mouth,point away from mouth
-point month + thumbs up,point mouth + thumbs down
-point month + listen + palm up,point mouth + listen + palm down
-point month + listen + palm down,point mouth + listen + palm up
-point month + hand release,point mouth + hand grab
-point camera + raised hand + silence cue,point camera + lowered hand + speak cue
-silence cue + hand release,speak cue + hand grab
-silence cue + throat slash,speak cue + throat slash
-clap hands + hand wave,clap hands + hand still
-clap hands + hand pinch,clap hands + unpinch
-backhand down,backhand up
-uncross fingers,cross fingers
-backhand up + hand grab,backhand down + hand release
-unclap hands,clap hands
-unblock view + hand grab,block view + hand release
-backhand up + raised hand,backhand down + lowered hand
-unblock face,block face
-block face + cross fingers,unblock face + uncross fingers
-timeout + raised hand,resume + lowered hand
-block face + thumbs up,unblock face + thumbs down
-chest palm + hand wave,chest palm + hand still
-chest palm + raised hand,chest palm + lowered hand
-chest palm + uncover mouth,chest palm + cover mouth
-swipe down + point camera,swipe up + point camera
-chin pinch + hand cut,chin pinch + reverse hand cut
-stacked hands,unstacked hands
-circular hand wave + hand pinch,counterclockwise circular hand wave + unpinch
-point camera + open curtains,point camera + close curtains
-point camera + listen + palm down,point camera + listen + palm up
-point camera + listen + palm up,point camera + listen + palm down
-hand wave + block view,hand still + unblock view
-listen + point mouth,listen + point away from mouth
-listen + pinch hold + palm down + point ear,listen + unpinch + palm up + point ear
-hand pinch + hand cut,unpinch + reverse hand cut
-hand release + palm up-down,hand grab + palm down-up
-listen + index down,listen + index up
-listen + backhand up,listen + backhand down
-intertwined fingers,unintertwined fingers
-point camera + index rotate,point camera + index counter-rotate
-index up + circular hand wave + hand grab,index down + circular hand wave + hand release
-index up + chin unpinch,index down + chin unpinch
-hand wave + pinch hold,hand still + unpinch
-index swipe,reverse index swipe
-index circular wave + point camera,counterclockwise index wave + point camera
-index rotate,index counter-rotate
-index point palm,index retract palm
-listen + unpinch,listen + hand pinch
-namaste,break namaste
-hand circle + index to up,hand circle + index to down
-point camera + hand swipe,point camera + reverse hand swipe
-cover mouth + palm up,cover mouth + palm down
-cross hand,uncross hand
-counterclockwise,clockwise
-eye point + hand grab,eye point + hand release
-eye point + hand release,eye point + hand grab
-palm up + raised hand,palm down + lowered hand
-palm up + listen,palm down + listen
-palm tap out,palm tap in
-palm tap in,palm tap out
-fist raise + index up,fist raise + index down
-fist raise + raised hand,fist raise + lowered hand
-palm down + hand grab,palm up + hand release
-open curtains + hand release,close curtains + hand grab
-hand circle + index to down,hand circle + index to up
-listen + index up,listen + index down
+Raised hand,Lowered hand
+Hand grab,Hand release
+Palm up,Palm down
+Hand release,Hand grab
+Index up,Index down
+Palm down,Palm up
+Hand wave,Hand still
+Hand swipe,Reverse hand swipe
+Hand pinch,Unpinch
+Point camera,Away from camera
+Backhand up,Backhand down
+Silence cue,Speak cue
+Clap hands,Unclip hands
+Spread hands,Close hands
+Block face,Unblock face
+Circular hand wave,Counterclockwise circular hand wave
+Open curtains,Close curtains
+Thumbs up,Thumbs down
+Cross fingers,Uncross fingers
+Uncover mouth,Cover mouth
+Block view,Unblock view
+Unpinch,Hand pinch
+Swipe up,Swipe down
+Close curtains,Open curtains
+Timeout,Resume
+Cover mouth,Uncover mouth
+Cross hands/arms,Uncross hands/arms
+Hand release + hand grab,Hand grab + hand release
+Clockwise,Counterclockwise
+Fist raise,Fist lower
+Palm up-down,Palm down-up
+Palm slap,Reverse palm slap
+Pinch hold,Unpinch
+Hand cut,Reverse hand cut
+Swipe down,Swipe up
+Listen + palm up,Listen + palm down
+Zip mouth,Unzip
+Palm rotate,Reverse palm rotate
+Phone down,Phone up
+Snap finger,Unsnap finger
+Sound wave,Silence wave
+Listen,Ignore
+Raised hand + palm down,Lowered hand + palm up
+Close lid,Open lid
+Listen + palm down,Listen + palm up
+Point camera + clockwise,Point camera + counterclockwise
+Namaste + open curtains,Namaste + close curtains
+Ok sign,Not ok sign
+Index point camera,Index away from camera
+Throat slash,Continue speaking
+Timeout tap,Resume tap
+Unblock view,Block view
+Index rotate + point camera,Index counter-rotate + point camera
+V sign,"Inverted ""v"" sign"
+Cover eyes,Uncover eyes
+Index down,Index up
+Frame,Unframe
+Finger click,Finger still
+Raised hand + hand circle,Lowered hand + hand circle
+Close curtains + clap hands,Open curtains + clap hands
+Salute swipe,Reverse salute swipe
+Raised hand + palm up,Lowered hand + palm down
+Cover ear,Uncover ear
+Raised hand + hand swipe,Lowered hand + hand swipe
+Raised hand + hand grab,Lowered hand + hand release
+Index point,Index retract
+Point camera + listen + uncover mouth,Point camera + listen + cover mouth
+Point mouth + cross fingers,Point mouth + uncross fingers
+Point mouth,Point away from mouth
+Point month + thumbs up,Point mouth + thumbs down
+Point month + listen + palm up,Point mouth + listen + palm down
+Point month + listen + palm down,Point mouth + listen + palm up
+Point month + hand release,Point mouth + hand grab
+Point camera + raised hand + silence cue,Point camera + lowered hand + speak cue
+Silence cue + hand release,Speak cue + hand grab
+Silence cue + throat slash,Speak cue + throat slash
+Clap hands + hand wave,Clap hands + hand still
+Clap hands + hand pinch,Clap hands + unpinch
+Backhand down,Backhand up
+Uncross fingers,Cross fingers
+Backhand up + hand grab,Backhand down + hand release
+Unclap hands,Clap hands
+Unblock view + hand grab,Block view + hand release
+Backhand up + raised hand,Backhand down + lowered hand
+Unblock face,Block face
+Block face + cross fingers,Unblock face + uncross fingers
+Timeout + raised hand,Resume + lowered hand
+Block face + thumbs up,Unblock face + thumbs down
+Chest palm + hand wave,Chest palm + hand still
+Chest palm + raised hand,Chest palm + lowered hand
+Chest palm + uncover mouth,Chest palm + cover mouth
+Swipe down + point camera,Swipe up + point camera
+Chin pinch + hand cut,Chin pinch + reverse hand cut
+Stacked hands,Unstacked hands
+Circular hand wave + hand pinch,Counterclockwise circular hand wave + unpinch
+Point camera + open curtains,Point camera + close curtains
+Point camera + listen + palm down,Point camera + listen + palm up
+Point camera + listen + palm up,Point camera + listen + palm down
+Hand wave + block view,Hand still + unblock view
+Listen + point mouth,Listen + point away from mouth
+Listen + pinch hold + palm down + point ear,Listen + unpinch + palm up + point ear
+Hand pinch + hand cut,Unpinch + reverse hand cut
+Hand release + palm up-down,Hand grab + palm down-up
+Listen + index down,Listen + index up
+Listen + backhand up,Listen + backhand down
+Intertwined fingers,Unintertwined fingers
+Point camera + index rotate,Point camera + index counter-rotate
+Index up + circular hand wave + hand grab,Index down + circular hand wave + hand release
+Index up + chin unpinch,Index down + chin unpinch
+Hand wave + pinch hold,Hand still + unpinch
+Index swipe,Reverse index swipe
+Index circular wave + point camera,Counterclockwise index wave + point camera
+Index rotate,Index counter-rotate
+Index point palm,Index retract palm
+Listen + unpinch,Listen + hand pinch
+Namaste,Break namaste
+Hand circle + index to up,Hand circle + index to down
+Point camera + hand swipe,Point camera + reverse hand swipe
+Cover mouth + palm up,Cover mouth + palm down
+Cross hand,Uncross hand
+Counterclockwise,Clockwise
+Eye point + hand grab,Eye point + hand release
+Eye point + hand release,Eye point + hand grab
+Palm up + raised hand,Palm down + lowered hand
+Palm up + listen,Palm down + listen
+Palm tap out,Palm tap in
+Palm tap in,Palm tap out
+Fist raise + index up,Fist raise + index down
+Fist raise + raised hand,Fist raise + lowered hand
+Palm down + hand grab,Palm up + hand release
+Open curtains + hand release,Close curtains + hand grab
+Hand circle + index to down,Hand circle + index to up
+Listen + index up,Listen + index down
