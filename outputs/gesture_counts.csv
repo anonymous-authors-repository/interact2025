@@ -1,0 +1,134 @@
+hand_gesture,c1_command,c2_command,c3_command,c4_command,c5_command,c6_command,c7_command,c8_command,total
+raised hand,0,2,6,6,9,5,46,7,81
+hand grab,0,1,26,7,16,6,1,10,67
+palm up,40,0,0,3,0,4,2,0,49
+index up,8,2,2,1,1,0,35,0,49
+hand release,0,0,4,23,4,17,0,1,49
+palm down,0,39,1,0,0,0,0,0,40
+hand wave,0,0,0,1,1,5,2,21,30
+hand pinch,6,9,6,1,2,1,0,1,26
+hand swipe,1,4,2,2,5,5,1,6,26
+point camera,1,4,3,5,1,3,1,4,22
+silence cue,0,0,12,6,0,0,0,0,18
+backhand up,11,6,1,0,0,0,0,0,18
+block face,0,0,0,0,11,3,0,0,14
+clap hands,0,0,1,0,6,2,1,4,14
+spread hands,0,0,2,0,2,0,0,10,14
+thumbs up,0,0,0,1,1,6,3,2,13
+circular hand wave,0,0,0,1,3,6,1,2,13
+open curtains,1,1,0,1,0,8,0,2,13
+uncover mouth,0,0,1,9,0,1,0,0,11
+cross fingers,0,0,4,0,3,1,0,3,11
+block view,1,1,1,1,4,1,0,0,9
+unpinch,5,0,0,4,0,0,0,0,9
+swipe up,7,1,0,0,0,0,0,0,8
+cross hands/arms,0,0,0,0,1,0,0,7,8
+cover mouth,0,0,6,2,0,0,0,0,8
+timeout,0,0,1,0,4,1,1,1,8
+close curtains,0,0,0,0,4,2,0,2,8
+fist raise,0,0,3,3,1,0,0,0,7
+hand release + hand grab,1,0,2,4,0,0,0,0,7
+clockwise,3,3,0,0,1,0,0,0,7
+pinch hold,1,5,0,0,0,0,0,0,6
+palm up-down,0,4,0,0,2,0,0,0,6
+palm slap,0,0,0,0,2,2,0,2,6
+hand cut,0,0,1,2,0,0,1,2,6
+swipe down,0,5,0,0,0,0,0,0,5
+listen + palm up,5,0,0,0,0,0,0,0,5
+phone down,0,0,0,0,0,0,0,4,4
+palm rotate,0,0,1,1,1,1,0,0,4
+snap finger,1,0,0,1,1,1,0,0,4
+sound wave,1,1,2,0,0,0,0,0,4
+listen,0,0,1,3,0,0,0,0,4
+zip mouth,0,0,3,1,0,0,0,0,4
+raised hand + palm down,0,3,0,0,0,0,0,0,3
+close lid,0,0,0,0,2,0,0,1,3
+namaste + open curtains,1,0,0,0,0,1,0,0,2
+point camera + clockwise,0,0,1,1,0,0,0,0,2
+ok sign,0,0,0,0,1,1,0,0,2
+index point camera,0,0,0,0,1,1,0,0,2
+throat slash,0,0,1,0,0,0,0,1,2
+timeout tap,0,0,1,1,0,0,0,0,2
+unblock view,0,0,0,0,0,2,0,0,2
+index rotate + point camera,0,0,0,0,1,1,0,0,2
+"""v"" sign",0,0,0,0,0,1,1,0,2
+listen + palm down,0,2,0,0,0,0,0,0,2
+cover eyes,0,0,0,0,2,0,0,0,2
+frame,0,0,0,0,0,2,0,0,2
+finger click,0,0,0,0,1,1,0,0,2
+index down,0,2,0,0,0,0,0,0,2
+point month + listen + palm down,0,1,0,0,0,0,0,0,1
+raised hand + hand swipe,1,0,0,0,0,0,0,0,1
+silence cue + hand release,0,0,1,0,0,0,0,0,1
+counterclockwise,0,0,0,0,0,1,0,0,1
+point month + hand release,0,0,0,1,0,0,0,0,1
+salute swipe,0,0,0,0,0,0,0,1,1
+raised hand + palm up,1,0,0,0,0,0,0,0,1
+cover ear,0,0,0,1,0,0,0,0,1
+raised hand + hand grab,0,0,0,0,1,0,0,0,1
+point month + listen + palm up,1,0,0,0,0,0,0,0,1
+raised hand + hand circle,0,0,0,0,0,0,1,0,1
+close curtains + clap hands,0,0,0,0,0,0,0,1,1
+point mouth + cross fingers,0,0,1,0,0,0,0,0,1
+point mouth,0,0,0,1,0,0,0,0,1
+point month + thumbs up,0,0,0,1,0,0,0,0,1
+silence cue + throat slash,0,0,1,0,0,0,0,0,1
+clap hands + hand wave,0,0,0,0,0,0,0,1,1
+point camera + open curtains,0,0,0,0,1,0,0,0,1
+block face + thumbs up,0,0,0,0,0,1,0,0,1
+backhand up + hand grab,0,1,0,0,0,0,0,0,1
+uncross fingers,0,0,0,0,0,1,0,0,1
+backhand up + raised hand,0,0,0,0,0,1,0,0,1
+unclap hands,0,0,0,1,0,0,0,0,1
+unblock view + hand grab,0,0,0,0,1,0,0,0,1
+block face + cross fingers,0,0,0,0,1,0,0,0,1
+unblock face,0,0,0,0,0,1,0,0,1
+timeout + raised hand,0,0,0,0,0,1,0,0,1
+clap hands + hand pinch,0,0,0,0,0,0,0,1,1
+chest palm + hand wave,0,0,0,0,0,0,0,1,1
+chest palm + raised hand,0,0,0,0,0,0,1,0,1
+chest palm + uncover mouth,0,0,0,0,0,0,1,0,1
+chin pinch + hand cut,0,0,1,0,0,0,0,0,1
+swipe down + point camera,0,1,0,0,0,0,0,0,1
+circular hand wave + hand pinch,0,0,0,0,1,0,0,0,1
+stacked hands,0,0,0,0,0,1,0,0,1
+point camera + raised hand + silence cue,0,0,1,0,0,0,0,0,1
+index point,0,0,0,1,0,0,0,0,1
+point camera + listen + uncover mouth,0,0,0,1,0,0,0,0,1
+listen + index down,0,1,0,0,0,0,0,0,1
+namaste,0,0,0,0,0,0,0,1,1
+listen + unpinch,1,0,0,0,0,0,0,0,1
+listen + point mouth,0,0,0,1,0,0,0,0,1
+listen + pinch hold + palm down + point ear,0,1,0,0,0,0,0,0,1
+hand wave + block view,0,0,0,0,0,0,0,1,1
+backhand down,0,1,0,0,0,0,0,0,1
+listen + index up,1,0,0,0,0,0,0,0,1
+listen + backhand up,0,1,0,0,0,0,0,0,1
+index point palm,0,0,0,1,0,0,0,0,1
+hand wave + pinch hold,0,0,0,0,0,1,0,0,1
+intertwined fingers,0,0,1,0,0,0,0,0,1
+index up + circular hand wave + hand grab,0,0,0,0,0,0,1,0,1
+index up + chin unpinch,0,0,0,0,0,0,1,0,1
+index circular wave + point camera,0,0,0,0,0,0,1,0,1
+index swipe,0,0,0,1,0,0,0,0,1
+index rotate,1,0,0,0,0,0,0,0,1
+hand release + palm up-down,0,0,0,0,0,0,0,1,1
+hand pinch + hand cut,0,0,0,0,1,0,0,0,1
+hand circle + index to up,0,0,0,0,0,1,0,0,1
+open curtains + hand release,0,0,0,0,0,1,0,0,1
+point camera + listen + palm down,0,1,0,0,0,0,0,0,1
+point camera + index rotate,0,0,0,0,0,0,1,0,1
+point camera + hand swipe,0,0,0,0,1,0,0,0,1
+cover mouth + palm up,0,0,0,1,0,0,0,0,1
+cross hand,0,0,1,0,0,0,0,0,1
+eye point + hand grab,0,0,0,0,1,0,0,0,1
+eye point + hand release,0,0,0,0,0,1,0,0,1
+palm up + raised hand,0,0,0,0,0,0,0,1,1
+palm up + listen,1,0,0,0,0,0,0,0,1
+fist raise + index up,0,0,0,0,0,1,0,0,1
+palm tap out,0,0,1,0,0,0,0,0,1
+palm tap in,0,0,0,1,0,0,0,0,1
+fist raise + raised hand,0,0,0,0,0,0,0,1,1
+palm down + hand grab,1,0,0,0,0,0,0,0,1
+hand circle + index to down,0,0,0,0,1,0,0,0,1
+point camera + listen + palm up,1,0,0,0,0,0,0,0,1
